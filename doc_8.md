@@ -30,4 +30,4 @@ After Sorting:
 
 --- Performance Stats ---
 Comparisons: 6
-Swaps/Shifts: 1
+Swaps/Shifts: 1 
