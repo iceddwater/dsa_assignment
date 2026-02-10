@@ -32,4 +32,4 @@ Node 20 wakes up now that 30 is done. It prints 20.
 
 Node 10 wakes up last. It prints 10.
 
-lastly, free() is used to cleanup the memory space assigned for the nodes using malloc.
+lastly, free() is used to cleanup the memory space assigned for the nodes using malloc. 

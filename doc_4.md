@@ -27,3 +27,4 @@ iv. free() is called deleting 20 from heap memory.
 List after insertions: 10 20 30 
 List after deleting 20: 10 30
 
+ 
