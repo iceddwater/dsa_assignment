@@ -15,3 +15,7 @@ ii. If the stack isn't empty, pop the top element. If the popped element doesn't
 
 4. At the end, if the stack is empty, the expression is balanced. If something is left in the stack, an opening bracket was never closed.
 
+**Output**: Enter an expression: a+(b-c)*(d
+The parentheses are not balanced.
+: Enter an expression: a+(b-c)
+The parentheses are balanced.

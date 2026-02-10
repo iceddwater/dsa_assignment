@@ -37,6 +37,15 @@ bool areParenthesesBalanced(char exp[]) {
             if (top == -1) {
                 return false; //  closing bracket with no opening
             }
+
+else if (exp[i] == ')' || exp[i] == '}' || exp[i] == ']') {
+    if (top == -1) return false; 
+    
+    char lastOpened = pop(); 
+    if (!isMatchingPair(lastOpened, exp[i])) {
+        return false; 
+    }
+}
           //  char popped = pop();
             if (!isMatchingPair(pop(), exp[i])) {
                 return false; // Mismatched ']'
