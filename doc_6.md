@@ -25,4 +25,4 @@ Space Complexity: O(1)
 
 Output:
 Max-Heap array: 13 11 12 5 6 7 
-Min-Heap array: 5 6 7 11 12 13
+Min-Heap array: 5 6 7 11 12 13 

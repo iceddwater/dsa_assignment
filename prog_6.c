@@ -73,4 +73,4 @@ int main() {
     printArray(minData, n);
 
     return 0;
-}
+} 
