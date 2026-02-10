@@ -26,3 +26,4 @@ Limitation: Currently charater limited to **single** digit.
 
 Usage: **gcc prog_2.c -o prog_2**
 Execution: **.\prog_2** 
+ 
